@@ -440,109 +440,109 @@ totalprojects.addEventListener("click",()=>{
 
 // console.log(projectimage)
 
-  loop2 = async() =>{
-    for(var p =0 ; p <1 ; p++)
-    {
-      var imageurl
-      imageurl = "url('./background" + "0" + p + ".jpg')"
-      // await new Promise(resolve => setTimeout(resolve,4000))
-      // console.log(imageurl)
-      projectimage[7].style.backgroundImage = imageurl
-      // if(p==1){p=-1}
-    }
-  }
-  loop2();
+  // loop2 = async() =>{
+  //   for(var p =0 ; p <1 ; p++)
+  //   {
+  //     var imageurl
+  //     imageurl = "url('./background" + "0" + p + ".jpg')"
+  //     // await new Promise(resolve => setTimeout(resolve,4000))
+  //     // console.log(imageurl)
+  //     projectimage[7].style.backgroundImage = imageurl
+  //     // if(p==1){p=-1}
+  //   }
+  // }
+  // loop2();
 
-    loop3 = async() =>{
-    for(var p =0 ; p <2 ; p++)
-    {
-      var imageurl
-      imageurl = "url('./background" + "1" + p + ".jpg')"
-      await new Promise(resolve => setTimeout(resolve,4000))
-      // console.log(imageurl)
-      projectimage[8].style.backgroundImage = imageurl
-      if(p==1){p=-1}
-    }
-  }
-  loop3();
+  //   loop3 = async() =>{
+  //   for(var p =0 ; p <2 ; p++)
+  //   {
+  //     var imageurl
+  //     imageurl = "url('./background" + "1" + p + ".jpg')"
+  //     await new Promise(resolve => setTimeout(resolve,4000))
+  //     // console.log(imageurl)
+  //     projectimage[8].style.backgroundImage = imageurl
+  //     if(p==1){p=-1}
+  //   }
+  // }
+  // loop3();
 
-    loop4 = async() =>{
-    for(var p =0 ; p <4 ; p++)
-    {
-      var imageurl
-      imageurl = "url('./background" + "2" + p + ".jpg')"
-      await new Promise(resolve => setTimeout(resolve,4000))
-      // console.log(imageurl)
-      projectimage[9].style.backgroundImage = imageurl
-      if(p==3){p=-1}
-    }
-  }
-  loop4();
+  //   loop4 = async() =>{
+  //   for(var p =0 ; p <4 ; p++)
+  //   {
+  //     var imageurl
+  //     imageurl = "url('./background" + "2" + p + ".jpg')"
+  //     await new Promise(resolve => setTimeout(resolve,4000))
+  //     // console.log(imageurl)
+  //     projectimage[9].style.backgroundImage = imageurl
+  //     if(p==3){p=-1}
+  //   }
+  // }
+  // loop4();
 
-    loop5 = async() =>{
-    for(var p =0 ; p <4 ; p++)
-    {
-      var imageurl
-      imageurl = "url('./background" + "3" + p + ".jpg')"
-      await new Promise(resolve => setTimeout(resolve,4000))
-      // console.log(imageurl)
-      projectimage[10].style.backgroundImage = imageurl
-      if(p==3){p=-1}
-    }
-  }
-  loop5();
+  //   loop5 = async() =>{
+  //   for(var p =0 ; p <4 ; p++)
+  //   {
+  //     var imageurl
+  //     imageurl = "url('./background" + "3" + p + ".jpg')"
+  //     await new Promise(resolve => setTimeout(resolve,4000))
+  //     // console.log(imageurl)
+  //     projectimage[10].style.backgroundImage = imageurl
+  //     if(p==3){p=-1}
+  //   }
+  // }
+  // loop5();
 
-    loop6 = async() =>{
-    for(var p =0 ; p <1 ; p++)
-    {
-      var imageurl
-      imageurl = "url('./background" + "4" + p + ".jpg')"
-      await new Promise(resolve => setTimeout(resolve,4000))
-      // console.log(imageurl)
-      projectimage[11].style.backgroundImage = imageurl
-      if(p==0){p=-1}
-    }
-  }
-  loop6();
+  //   loop6 = async() =>{
+  //   for(var p =0 ; p <1 ; p++)
+  //   {
+  //     var imageurl
+  //     imageurl = "url('./background" + "4" + p + ".jpg')"
+  //     await new Promise(resolve => setTimeout(resolve,4000))
+  //     // console.log(imageurl)
+  //     projectimage[11].style.backgroundImage = imageurl
+  //     if(p==0){p=-1}
+  //   }
+  // }
+  // loop6();
 
-    loop7 = async() =>{
-    for(var p =0 ; p <4 ; p++)
-    {
-      var imageurl
-      imageurl = "url('./background" + "5" + p + ".jpg')"
-      await new Promise(resolve => setTimeout(resolve,4000))
-      // console.log(imageurl)
-      projectimage[12].style.backgroundImage = imageurl
-      if(p==3){p=-1}
-    }
-  }
-  loop7();
+  //   loop7 = async() =>{
+  //   for(var p =0 ; p <4 ; p++)
+  //   {
+  //     var imageurl
+  //     imageurl = "url('./background" + "5" + p + ".jpg')"
+  //     await new Promise(resolve => setTimeout(resolve,4000))
+  //     // console.log(imageurl)
+  //     projectimage[12].style.backgroundImage = imageurl
+  //     if(p==3){p=-1}
+  //   }
+  // }
+  // loop7();
 
-    loop8 = async() =>{
-    for(var p =0 ; p <1 ; p++)
-    {
-      var imageurl
-      imageurl = "url('./background" + "6" + p + ".jpg')"
-      await new Promise(resolve => setTimeout(resolve,4000))
-      // console.log(imageurl)
-      projectimage[13].style.backgroundImage = imageurl
-      if(p==0){p=-1}
-    }
-  }
-  loop8();
+  //   loop8 = async() =>{
+  //   for(var p =0 ; p <1 ; p++)
+  //   {
+  //     var imageurl
+  //     imageurl = "url('./background" + "6" + p + ".jpg')"
+  //     await new Promise(resolve => setTimeout(resolve,4000))
+  //     // console.log(imageurl)
+  //     projectimage[13].style.backgroundImage = imageurl
+  //     if(p==0){p=-1}
+  //   }
+  // }
+  // loop8();
 
-    loop9 = async() =>{
-    for(var p =0 ; p <3 ; p++)
-    {
-      var imageurl
-      imageurl = "url('./background" + "7" + p + ".jpg')"
-      await new Promise(resolve => setTimeout(resolve,4000))
-      // console.log(imageurl)
-      projectimage[14].style.backgroundImage = imageurl
-      if(p==2){p=-1}
-    }
-  }
-  loop9();
+  //   loop9 = async() =>{
+  //   for(var p =0 ; p <3 ; p++)
+  //   {
+  //     var imageurl
+  //     imageurl = "url('./background" + "7" + p + ".jpg')"
+  //     await new Promise(resolve => setTimeout(resolve,4000))
+  //     // console.log(imageurl)
+  //     projectimage[14].style.backgroundImage = imageurl
+  //     if(p==2){p=-1}
+  //   }
+  // }
+  // loop9();
 
   loop10 = async() =>{
     for(var p =0 ; p <2 ; p++)
