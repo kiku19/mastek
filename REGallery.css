@@ -1,15 +1,26 @@
+
 .content{
     position: relative;
     top: 77px;
     background-color: white;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    height: 100vh !important;
 }
 .heading{
+
     display: flex;
     text-decoration: underline;
     font-size: 1.5rem;
     text-decoration-color: #ff7b20;
-    margin: 40px;
-    margin-left: 140px;
+    margin: 0 AUTO;
+    margin-top: 20px;
+
 }
 .section-container
 {

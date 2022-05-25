@@ -661,7 +661,9 @@ var imgurl = [
   "./india50002.png",
   "./india50003.png",
   "./india50004.png",
-  "./india50005.png"
+  "./india50005.png",
+  "./india50006.png",
+  "./india50007.png"
 ];
 imagec3.src = imgurl[0];
 var para1 = [
@@ -670,9 +672,11 @@ var para1 = [
   "National Small industries Corporation limited has certified MASTEK ENGINEERING to foster the growth of MSME businesses, which provides single point registration thus able to claim 25% minimum annual purchase made by central ministries.",
   "Mastek had been certified by Micro, Small and Medium Enterprises or Udyog Aadhaar in the year 2016",
   "MASTEK ENGINEERING has been audited and certified for Occupational Health & Saftey Management System for the scope of Mechanical, Civil, Electrical, Instrumentation, and Telecom works for industries including Oil and Gas Sector",
-  "MASTEK ENGINEERING PVT LTD had been appreciated by Bharath Petroleum Corporation Limited for successful completion and commissioning of Bina Panki Pipieline project."
+  "MASTEK ENGINEERING PVT LTD had been appreciated by Bharath Petroleum Corporation Limited for successful completion and commissioning of Bina Panki Pipieline project.",
+  "Our respected Managing Directior Mr.M.Suresh Kumar had been Awarded with Indian Achievers Award for Excellence in Engineering & Project Management",
+  "Our respected Managing Director Mr.M.Suresh Kumar had been Awarded with Indo Global Award for Excellence in Business by the Indian Economic Developement & Research Association."
 ];
-var award1 = ["INDIA 5000", "ISO 9001:2015", "NSIC Certified", "MSME","ISO 45001:2018","Appreciation"];
+var award1 = ["INDIA 5000", "ISO 9001:2015", "NSIC Certified", "MSME","ISO 45001:2018","Appreciation","IAC Award","IEDRA Award"];
 award[0].innerHTML = award1[0];
 para[0].innerHTML = para1[0];
 para[0].style.display = "block";
